@@ -1,21 +1,27 @@
 <h2 align="center">👋 Hi there, I'm Sampathi Srinu</h2>
 
 <p align="center">
-  🎓 MCA Graduate (75.4%) | 📊 Data Analyst & BI Developer | 💻 Junior Software Engineer | 🌏 Guntur, India
+  🎓 MCA Graduate (75.4%) |  💻 Junior Software Engineer |📊 Data Analyst & BI Developer | 🌏 Andhra Pradesh, India
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a **Master of Computer Applications (MCA — 75.4%)** graduate from  
-**Hindu College of PG Courses, Guntur, Andhra Pradesh**, with hands-on experience in **SQL, Python, Power BI, and Excel**, building dashboards and analytics solutions that support **data-driven decision making**.
+🎯 **Data Analyst & Junior Software Engineer** with a strong academic foundation and real-world experience in building data-driven solutions that deliver measurable business impact.
 
-Currently working as a **Junior Software Engineer** at **Epireum Consultancy & Services Oy**, where I work with **Git, GitHub, Docker, Linux, and Kubernetes-based workflows** in real development environments.
+I hold a **Master of Computer Applications (MCA — 75.4%)** from **Hindu College of PG Courses, Guntur, Andhra Pradesh**, and bring hands-on expertise in **Python, SQL, Power BI, and Machine Learning** — turning complex raw data into actionable insights and interactive dashboards.
 
-I specialize in **data analysis, business intelligence, ETL, KPI reporting, and machine learning models**, and enjoy converting raw datasets into meaningful insights and visual stories.
+Currently contributing as a **Junior Software Engineer** at **Epireum Consultancy & Services Oy**, where I work daily with industry-standard tools including **Git, GitHub, Docker, Linux, and Kubernetes** in a real collaborative development environment — bridging the gap between data and software engineering.
 
-I am actively seeking opportunities in **Data Analytics**, **Business Intelligence**, or **Data Science** roles where I can contribute to impactful, data-driven solutions.
+💡 What I bring to the table:
+- ✅ End-to-end **ML model development** — from preprocessing and feature engineering to evaluation and deployment
+- ✅ **BI dashboards & KPI reporting** using Power BI with DAX, ETL pipelines, and data modeling
+- ✅ **NLP & text analytics** — TF-IDF, spam classification, model tuning (15%+ accuracy improvement)
+- ✅ Real-world experience with **Agile SDLC**, Docker containerization, and GitHub collaboration workflows
+- ✅ Strong focus on **data quality, governance, and validation standards**
+---
+🚀 I am actively seeking opportunities in **Data Analytics**, **Business Intelligence**, **Data Science**, or **Junior Software Engineer** roles where I can contribute to scalable, impactful solutions — leveraging both my data expertise and hands-on software engineering experience to grow alongside a high-performing team.
 
 ---
 
@@ -46,18 +52,36 @@ I am actively seeking opportunities in **Data Analytics**, **Business Intelligen
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau">
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" title="Excel">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit">
   </a>
 </h3>
 
 <h3>
-  <p><b>Development & Tools</b></p>
+  <p><b>Development & Engineering Tools</b></p>
   <a href="#">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=git&titles=true" title="Git">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=github&titles=true" title="GitHub">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=docker&titles=true" title="Docker">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux&titles=true" title="Linux">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=kubernetes&titles=true" title="Kubernetes">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode&titles=true" title="VS Code">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter&titles=true" title="Jupyter Notebook">
+  </a>
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" title="Agile">
+    <img src="https://img.shields.io/badge/SDLC-4A90D9?style=for-the-badge&logo=azuredevops&logoColor=white" title="SDLC">
+    <img src="https://img.shields.io/badge/Vi%20Editor-019733?style=for-the-badge&logo=vim&logoColor=white" title="Vi Editor">
+    <img src="https://img.shields.io/badge/Pull%20Requests-181717?style=for-the-badge&logo=github&logoColor=white" title="PR Workflows">
+  </a>
+</h3>
+
+<h3>
+  <p><b>IDEs & Notebooks</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode&titles=true" title="VS Code">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter&titles=true" title="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" title="Google Colab">
   </a>
 </h3>
 
@@ -74,11 +98,12 @@ I am actively seeking opportunities in **Data Analytics**, **Business Intelligen
 **Junior Software Engineer** — *Epireum Consultancy & Services Oy*  
 📅 Jan 2026 – Present | 🌐 Remote
 
-- Developed and maintained software projects using **Git** and **GitHub** collaboration workflows
-- Containerized applications using **Docker** for consistent development environments
-- Worked with **Linux commands** and Vi editor for configuration and code updates
-- Managed branching, pull requests, and merges with proper documentation standards
-- Followed **Agile SDLC practices** across team projects
+- Developed and maintained software projects using **Git** and **GitHub** — including branching strategies, pull requests, code reviews, and merge conflict resolution
+- Containerized applications using **Docker** — wrote Dockerfiles, managed images, and built containers for consistent cross-environment deployment
+- Administered **Linux** environments using shell commands and **Vi editor** for file configuration, log inspection, and server-side script updates
+- Worked with **Kubernetes**-based workflows for container orchestration and deployment management in cloud-native environments
+- Applied **Agile SDLC practices**: participated in sprint planning, standups, retrospectives, and backlog grooming across team projects
+- Maintained proper **documentation standards** for code, configurations, and deployment pipelines
 
 ---
 
@@ -103,15 +128,36 @@ I am actively seeking opportunities in **Data Analytics**, **Business Intelligen
 
 ### 📊 Key Projects
 
-- 📦 **Global Superstore BI Report**  
+- 📧 **Email Spam Classification System**  
+  Processed and analysed **5,000+ email records** using NLP techniques such as text cleaning and **TF-IDF vectorization**.  
+  Built and evaluated **Naive Bayes** and **Logistic Regression** models for spam classification.  
+  Improved model performance by approximately **15% compared to baseline** through feature tuning.  
+  Conducted error analysis using **confusion matrix** and **ROC curve**.  
+  `Python` `NLP` `Scikit-learn` `TF-IDF` `Machine Learning`
+
+- 📦 **[Global Superstore Business Intelligence Report](https://github.com/srinudata/Global-Superstore-Business-Intelligence-Report)**  
   Analyzed **50,000+ transactions** using Python and Excel.  
   Performed ETL and KPI calculations, built **interactive Power BI dashboards** with drill-downs and trend analysis.  
-  Identified profit gaps and underperforming regions.
+  Identified profit gaps and underperforming regions.  
+  `Python` `Jupyter Notebook` `Power BI` `Excel`
 
-- ❤️ **Heart Attack Prediction System**  
+- ❤️ **[Heart Attack Prediction System](https://github.com/srinudata/heart-attack-prediction-with-ml)**  
   Built an **end-to-end ML pipeline** on healthcare data.  
-  Compared multiple models (Logistic, KNN, Decision Tree, Random Forest) evaluated with Accuracy, Precision, Recall, F1.  
-  Visualized risk insights using **Power BI dashboards**.
+  Compared multiple models (Logistic Regression, KNN, Decision Tree, Random Forest) evaluated with Accuracy, Precision, Recall, F1.  
+  Visualized risk insights using **Power BI dashboards**.  
+  `Python` `Scikit-learn` `Jupyter Notebook` `Power BI`
+
+- 📚 **[Digital Library Management System](https://github.com/srinudata/Digital-Library-Management-System)**  
+  A full-featured **library management web app** built with Python, SQL, and Streamlit with a secure login system.  
+  Supports complete **CRUD operations** — Add, View, Update, Delete, and Search books — with user authentication required for sensitive actions.  
+  Each book record stores Book ID, Name, and Author, with a clean Streamlit-based UI for easy interaction.  
+  `Python` `SQL` `Streamlit`
+
+- 🧮 **[Simple Interest Calculator](https://github.com/srinudata/simple-interest-calculator)**  
+  A beginner-friendly **Python program** that calculates Simple Interest using the formula **SI = (P × R × T) / 100**.  
+  Takes user input for Principal, Rate, and Time — then displays the calculated interest clearly.  
+  Demonstrates core Python concepts: user input, arithmetic operations, variables, and output formatting.  
+  `Python 3.x`
 
 ---
 
