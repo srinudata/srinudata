@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Sampathi Srinu</h2>
 
 <p align="center">
-  🎓 MCA Graduate (75.4%) | 📊 Data Analyst & BI Developer | 🤖 ML & NLP Engineer | 💻 Junior Software Engineer | 🌏 India
+  🎓 MCA Graduate (75.4%) | 💻 Junior Software Engineer| 📊 Data Analyst & BI Developer | 🤖 ML & NLP Engineer  | 🌏 India
 </p>
 
 ---
@@ -99,7 +99,11 @@ Currently working as a **Junior Software Engineer** at **Epireum Consultancy & S
 </p>
 
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/most_tomb_05" alt="CodeChef Stats"/>
+  <a href="https://www.codechef.com/users/most_tomb_05">
+    <img src="https://img.shields.io/badge/CodeChef-most__tomb__05-B92B27?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/Problems%20Solved-293%2B-brightgreen?style=for-the-badge&logo=codechef&logoColor=white" alt="Problems Solved"/>
+    <img src="https://img.shields.io/badge/Badge-Silver%20🥈-silver?style=for-the-badge" alt="Silver Badge"/>
+  </a>
 </p>
 
 ---
