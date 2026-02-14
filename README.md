@@ -14,21 +14,14 @@ I hold a **Master of Computer Applications (MCA — 75.4%)** from **Hindu Colleg
 
 Currently working as a **Junior Software Engineer** at **Epireum Consultancy & Services Oy**, where I apply industry-standard engineering practices — **Git, GitHub, Docker, Linux, and Kubernetes** — in a live collaborative development environment, bridging the gap between data science and software engineering.
 
----
-
 💡 **What I bring to the table:**
-
-| Skill Area | Highlights |
-|---|---|
-| 🤖 **Machine Learning** | End-to-end pipelines — preprocessing, feature engineering, model training, evaluation & deployment |
-| 🔤 **NLP & Text Analytics** | TF-IDF, text classification, Naive Bayes, Logistic Regression — **15%+ accuracy improvement** |
-| 📊 **BI & Dashboards** | Power BI (DAX, ETL, data modeling), KPI reporting across **50,000+ records** |
-| 🗄️ **SQL & Databases** | MySQL, PostgreSQL — query optimization, database design, data validation |
-| 🐳 **Software Engineering** | Docker, Kubernetes, Linux, Git/GitHub, Agile SDLC, CI/CD workflows |
-| 🌐 **App Development** | Streamlit web apps with secure login, CRUD operations, and SQL integration |
-| 🏆 **Problem Solving** | **293+ problems solved** on CodeChef | Silver Badge | Python Skill Test 73% |
-
----
+- ✅ End-to-end **Machine Learning pipelines** — data preprocessing, feature engineering, model training, evaluation & deployment
+- ✅ **NLP & Text Analytics** — TF-IDF vectorization, spam classification, Naive Bayes & Logistic Regression with **15%+ accuracy improvement**
+- ✅ **BI Dashboards & KPI Reporting** — Power BI (DAX, ETL, data modeling) across **50,000+ transaction records**
+- ✅ **SQL & Database Design** — MySQL, PostgreSQL — query optimization, data validation & governance
+- ✅ **Software Engineering** — Docker, Kubernetes, Linux, Git/GitHub, Agile SDLC workflows in real production environments
+- ✅ **App Development** — Streamlit web apps with secure login, CRUD operations & SQL integration
+- ✅ **Competitive Problem Solving** — **293+ problems solved** on CodeChef | Silver Badge | Python Skill Test 73%
 
 🚀 **Actively seeking** roles in **Data Analytics**, **Business Intelligence**, **Data Science**, or **Junior Software Engineering** — eager to contribute scalable, impactful solutions and grow within a high-performing, innovation-driven team.
 
