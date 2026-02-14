@@ -1,27 +1,36 @@
 <h2 align="center">👋 Hi there, I'm Sampathi Srinu</h2>
 
 <p align="center">
-  🎓 MCA Graduate (75.4%) |  💻 Junior Software Engineer |📊 Data Analyst & BI Developer | 🌏 Andhra Pradesh, India
+  🎓 MCA Graduate (75.4%) | 📊 Data Analyst & BI Developer | 🤖 ML & NLP Engineer | 💻 Junior Software Engineer | 🌏 India
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🎯 **Data Analyst & Junior Software Engineer** with a strong academic foundation and real-world experience in building data-driven solutions that deliver measurable business impact.
+> 🎯 *Results-driven* **Data Analyst & Junior Software Engineer** with hands-on experience delivering **ML models, BI dashboards, NLP solutions, and software engineering workflows** in real-world environments.
 
-I hold a **Master of Computer Applications (MCA — 75.4%)** from **Hindu College of PG Courses, Guntur, Andhra Pradesh**, and bring hands-on expertise in **Python, SQL, Power BI, and Machine Learning** — turning complex raw data into actionable insights and interactive dashboards.
+I hold a **Master of Computer Applications (MCA — 75.4%)** from **Hindu College of PG Courses, Guntur, Andhra Pradesh**. I bring strong expertise in **Python, SQL, Power BI, Machine Learning, and NLP** — with a proven ability to turn raw, complex datasets into actionable insights, interactive dashboards, and intelligent data-driven applications.
 
-Currently contributing as a **Junior Software Engineer** at **Epireum Consultancy & Services Oy**, where I work daily with industry-standard tools including **Git, GitHub, Docker, Linux, and Kubernetes** in a real collaborative development environment — bridging the gap between data and software engineering.
+Currently working as a **Junior Software Engineer** at **Epireum Consultancy & Services Oy**, where I apply industry-standard engineering practices — **Git, GitHub, Docker, Linux, and Kubernetes** — in a live collaborative development environment, bridging the gap between data science and software engineering.
 
-💡 What I bring to the table:
-- ✅ End-to-end **ML model development** — from preprocessing and feature engineering to evaluation and deployment
-- ✅ **BI dashboards & KPI reporting** using Power BI with DAX, ETL pipelines, and data modeling
-- ✅ **NLP & text analytics** — TF-IDF, spam classification, model tuning (15%+ accuracy improvement)
-- ✅ Real-world experience with **Agile SDLC**, Docker containerization, and GitHub collaboration workflows
-- ✅ Strong focus on **data quality, governance, and validation standards**
 ---
-🚀 I am actively seeking opportunities in **Data Analytics**, **Business Intelligence**, **Data Science**, or **Junior Software Engineer** roles where I can contribute to scalable, impactful solutions — leveraging both my data expertise and hands-on software engineering experience to grow alongside a high-performing team.
+
+💡 **What I bring to the table:**
+
+| Skill Area | Highlights |
+|---|---|
+| 🤖 **Machine Learning** | End-to-end pipelines — preprocessing, feature engineering, model training, evaluation & deployment |
+| 🔤 **NLP & Text Analytics** | TF-IDF, text classification, Naive Bayes, Logistic Regression — **15%+ accuracy improvement** |
+| 📊 **BI & Dashboards** | Power BI (DAX, ETL, data modeling), KPI reporting across **50,000+ records** |
+| 🗄️ **SQL & Databases** | MySQL, PostgreSQL — query optimization, database design, data validation |
+| 🐳 **Software Engineering** | Docker, Kubernetes, Linux, Git/GitHub, Agile SDLC, CI/CD workflows |
+| 🌐 **App Development** | Streamlit web apps with secure login, CRUD operations, and SQL integration |
+| 🏆 **Problem Solving** | **293+ problems solved** on CodeChef | Silver Badge | Python Skill Test 73% |
+
+---
+
+🚀 **Actively seeking** roles in **Data Analytics**, **Business Intelligence**, **Data Science**, or **Junior Software Engineering** — eager to contribute scalable, impactful solutions and grow within a high-performing, innovation-driven team.
 
 ---
 
@@ -43,6 +52,12 @@ Currently contributing as a **Junior Software Engineer** at **Epireum Consultanc
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=pandas&titles=true" title="Pandas">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=sklearn&titles=true" title="Scikit-learn">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=matplotlib&titles=true" title="Matplotlib">
+  </a>
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white" title="NLP">
+    <img src="https://img.shields.io/badge/TF--IDF-Text%20Vectorization-FF6F00?style=for-the-badge&logo=apache&logoColor=white" title="TF-IDF">
+    <img src="https://img.shields.io/badge/NLTK-Text%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white" title="NLTK">
   </a>
 </h3>
 
@@ -79,7 +94,6 @@ Currently contributing as a **Junior Software Engineer** at **Epireum Consultanc
 <h3>
   <p><b>IDEs & Notebooks</b></p>
   <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode&titles=true" title="VS Code">
     <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter&titles=true" title="Jupyter Notebook">
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" title="Google Colab">
   </a>
@@ -89,6 +103,10 @@ Currently contributing as a **Junior Software Engineer** at **Epireum Consultanc
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=srinudata&theme=gruvbox-duo&hide_border=true&border_radius=4.9&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/most_tomb_05" alt="CodeChef Stats"/>
 </p>
 
 ---
@@ -167,23 +185,29 @@ Currently contributing as a **Junior Software Engineer** at **Epireum Consultanc
 - 🤖 Achieved **88%+ ML model accuracy**
 - 📈 Delivered **KPI dashboards** for business monitoring
 - ✅ Strong focus on **data quality, validation, and governance standards**
+- 🧩 Solved **293+ problems** on CodeChef — earned **Problem Solver Silver Badge**
+- 🐍 Scored **73% in Python Skill Test** on CodeChef (Aug 2025)
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Competitive Coding
 
 - [Microsoft Certified: **Power BI – Business Applications** (AICTE–Microsoft Elevate)](https://linkedin.com/in/sampathisrinu)
 - [IBM Certified: **SQL and Relational Databases**](https://linkedin.com/in/sampathisrinu)
+- [CodeChef: **293+ Problems Solved** | Silver Badge | Python Skill Test 73%](https://www.codechef.com/users/most_tomb_05)
 
 ---
 
 ### 🎯 Areas of Interest
 
-- Data Analytics & Business Intelligence
+- Data Analytics
+- Business Intelligence
 - Data Engineering & ETL
-- Machine Learning & Statistical Modelling
+- Machine Learning & Statistical Modeling
 - Dashboard & KPI Reporting
-- Database Design & SQL
+- SQL & Database Design
+- Junior Software Engineering & Application Development
+- Natural Language Processing (NLP)
 
 ---
 
@@ -210,11 +234,14 @@ Currently contributing as a **Junior Software Engineer** at **Epireum Consultanc
   <a href="tel:+917036826605" target="_blank">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="https://www.codechef.com/users/most_tomb_05" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  📊 Actively looking for opportunities in <b>Data Analytics</b>, <b>Business Intelligence</b>, and <b>Data Science</b>.<br/>
-  Open to learning, collaboration, and impactful data-driven projects.
+  🚀 Actively looking for opportunities in <b>Data Analytics</b>, <b>Business Intelligence</b>, <b>Data Science</b>, or <b>Junior Software Engineering</b>.<br/>
+  Open to learning, collaboration, and building impactful, data-driven solutions. Let's connect!
 </p>
