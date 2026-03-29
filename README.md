@@ -29,69 +29,54 @@ Currently working as a **Junior Software Engineer** at **Epireum Consultancy & S
 
 ### 🧠 My Skills
 
-<h3>
-  <p><b>Programming & Data Analysis</b></p>
-  <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=python&titles=true" title="Python">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=mysql&titles=true" title="MySQL">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=postgresql&titles=true" title="PostgreSQL">
-  </a>
-</h3>
+<h3><p><b>Programming</b></p></h3>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=python&titles=true" title="Python">
+</a>
 
-<h3>
-  <p><b>Data Science & Machine Learning</b></p>
-  <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy&titles=true" title="NumPy">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=pandas&titles=true" title="Pandas">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=sklearn&titles=true" title="Scikit-learn">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=matplotlib&titles=true" title="Matplotlib">
-  </a>
-  <br/><br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white" title="NLP">
-    <img src="https://img.shields.io/badge/TF--IDF-Text%20Vectorization-FF6F00?style=for-the-badge&logo=apache&logoColor=white" title="TF-IDF">
-    <img src="https://img.shields.io/badge/NLTK-Text%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white" title="NLTK">
-  </a>
-</h3>
+<h3><p><b>Database</b></p></h3>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=mysql&titles=true" title="MySQL">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=postgresql&titles=true" title="PostgreSQL">
+</a>
 
-<h3>
-  <p><b>Data Visualization & BI</b></p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau">
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" title="Excel">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit">
-  </a>
-</h3>
+<h3><p><b>ML & NLP</b></p></h3>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=numpy&titles=true" title="NumPy">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=pandas&titles=true" title="Pandas">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=sklearn&titles=true" title="Scikit-learn">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=matplotlib&titles=true" title="Matplotlib">
+</a>
+<br/><br/>
+<a href="#">
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white">
+  <img src="https://img.shields.io/badge/TF--IDF-Text%20Vectorization-FF6F00?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/NLTK-Text%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
 
-<h3>
-  <p><b>Development & Engineering Tools</b></p>
-  <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=git&titles=true" title="Git">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=github&titles=true" title="GitHub">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=docker&titles=true" title="Docker">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux&titles=true" title="Linux">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=kubernetes&titles=true" title="Kubernetes">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode&titles=true" title="VS Code">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter&titles=true" title="Jupyter Notebook">
-  </a>
-  <br/><br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" title="Agile">
-    <img src="https://img.shields.io/badge/SDLC-4A90D9?style=for-the-badge&logo=azuredevops&logoColor=white" title="SDLC">
-    <img src="https://img.shields.io/badge/Vi%20Editor-019733?style=for-the-badge&logo=vim&logoColor=white" title="Vi Editor">
-    <img src="https://img.shields.io/badge/Pull%20Requests-181717?style=for-the-badge&logo=github&logoColor=white" title="PR Workflows">
-  </a>
-</h3>
+<h3><p><b>Backend</b></p></h3>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=django&titles=true" title="Django">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
 
-<h3>
-  <p><b>IDEs & Notebooks</b></p>
-  <a href="#">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter&titles=true" title="Jupyter Notebook">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" title="Google Colab">
-  </a>
-</h3>
+<h3><p><b>DevOps</b></p></h3>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=docker&titles=true" title="Docker">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=kubernetes&titles=true" title="Kubernetes">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=jenkins&titles=true" title="Jenkins">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux&titles=true" title="Linux">
+  <img src="https://img.shields.io/badge/Vi%20Editor-019733?style=for-the-badge&logo=vim&logoColor=white">
+</a>
 
+<h3><p><b>Tools & Version Control</b></p></h3>
+<a href="#">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=git&titles=true" title="Git">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=github&titles=true" title="GitHub">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode&titles=true" title="VS Code">
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter&titles=true" title="Jupyter Notebook">
+</a>
 ---
 
 <p align="center">
