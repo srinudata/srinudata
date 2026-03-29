@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Sampathi Srinu</h2>
 
 <p align="center">
-  🎓 MCA Graduate (75.4%) | 💻 Junior Software Engineer| 📊 Data Analyst & BI Developer | 🤖 ML & NLP Engineer  | 🌏 India
+  🎓 MCA Graduate (75.4%) | 💻 Junior Software Engineer | 🔧 Backend & DevOps Engineer | 🤖 ML & NLP Engineer | 🌏 India
 </p>
 
 ---
@@ -191,14 +191,14 @@ a high-performing, innovation-driven team.
 
 ### 🎯 Areas of Interest
 
-- Data Analytics
-- Business Intelligence
-- Data Engineering & ETL
+- Backend Development & REST API Engineering
+- DevOps, CI/CD & Cloud-Native Deployments
 - Machine Learning & Statistical Modeling
-- Dashboard & KPI Reporting
-- SQL & Database Design
-- Junior Software Engineering & Application Development
 - Natural Language Processing (NLP)
+- Data Engineering & ETL Pipelines
+- SQL & Database Design
+- MLOps — ML Model Deployment & Monitoring
+- Junior Software Engineering & Application Development
 
 ---
 
@@ -233,6 +233,6 @@ a high-performing, innovation-driven team.
 ---
 
 <p align="center">
-  🚀 Actively looking for opportunities in <b>Data Analytics</b>, <b>Business Intelligence</b>, <b>Data Science</b>, or <b>Junior Software Engineering</b>.<br/>
+  🚀 Actively looking for opportunities in <b>Backend Engineering</b>, <b>DevOps</b>, <b>MLOps</b>, or <b>Junior Software Engineering</b>.<br/>
   Open to learning, collaboration, and building impactful, data-driven solutions. Let's connect!
 </p>
