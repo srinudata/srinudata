@@ -8,22 +8,31 @@
 
 ### 🚀 About Me
 
-> 🎯 *Results-driven* **Data Analyst & Junior Software Engineer** with hands-on experience delivering **ML models, BI dashboards, NLP solutions, and software engineering workflows** in real-world environments.
+> 🎯 *Results-driven* **Junior Software Engineer & Data professional** with hands-on experience in
+> **ML pipelines, NLP solutions, REST APIs, DevOps workflows, and BI dashboards** in real-world environments.
 
-I hold a **Master of Computer Applications (MCA — 75.4%)** from **Hindu College of PG Courses, Guntur, Andhra Pradesh**. I bring strong expertise in **Python, SQL, Power BI, Machine Learning, and NLP** — with a proven ability to turn raw, complex datasets into actionable insights, interactive dashboards, and intelligent data-driven applications.
+I hold a **Master of Computer Applications (MCA — 75.4%)** from **Hindu College of PG Courses,
+Guntur, Andhra Pradesh**. I bridge the gap between **data science and software engineering** —
+building intelligent, data-driven applications and deploying them with modern DevOps practices.
 
-Currently working as a **Junior Software Engineer** at **Epireum Consultancy & Services Oy**, where I apply industry-standard engineering practices — **Git, GitHub, Docker, Linux, and Kubernetes** — in a live collaborative development environment, bridging the gap between data science and software engineering.
+Currently working as a **Junior Software Engineer** at **Epireum Consultancy & Services Oy**,
+where I containerize applications with **Docker**, orchestrate deployments using **Kubernetes**,
+manage CI/CD pipelines with **Jenkins & ArgoCD**, and work in **Linux** environments daily —
+alongside collaborating in **Agile** teams using **Git & GitHub** workflows.
 
 💡 **What I bring to the table:**
-- ✅ End-to-end **Machine Learning pipelines** — data preprocessing, feature engineering, model training, evaluation & deployment
-- ✅ **NLP & Text Analytics** — TF-IDF vectorization, spam classification, Naive Bayes & Logistic Regression with **15%+ accuracy improvement**
-- ✅ **BI Dashboards & KPI Reporting** — Power BI (DAX, ETL, data modeling) across **50,000+ transaction records**
-- ✅ **SQL & Database Design** — MySQL, PostgreSQL — query optimization, data validation & governance
-- ✅ **Software Engineering** — Docker, Kubernetes, Linux, Git/GitHub, Agile SDLC workflows in real production environments
+- ✅ **Backend Development** — Django REST Framework for building scalable, production-ready APIs
+- ✅ **DevOps & CI/CD** — Docker, Kubernetes, Jenkins, ArgoCD, Linux, Vi Editor in live environments
+- ✅ **Machine Learning pipelines** — data preprocessing, feature engineering, model training & evaluation
+- ✅ **NLP & Text Analytics** — TF-IDF vectorization, spam classification, Naive Bayes & Logistic Regression
+- ✅ **Database Design** — MySQL, PostgreSQL — query optimization, data validation & governance
+- ✅ **BI Dashboards** — Power BI (DAX, ETL, data modeling) across **50,000+ transaction records**
 - ✅ **App Development** — Streamlit web apps with secure login, CRUD operations & SQL integration
 - ✅ **Competitive Problem Solving** — **293+ problems solved** on CodeChef | Silver Badge | Python Skill Test 73%
 
-🚀 **Actively seeking** roles in **Data Analytics**, **Business Intelligence**, **Data Science**, or **Junior Software Engineering** — eager to contribute scalable, impactful solutions and grow within a high-performing, innovation-driven team.
+🚀 **Actively seeking** roles in **Backend Engineering**, **MLOps**, **Data Science**, or
+**Junior Software Engineering** — eager to build scalable, impactful solutions and grow within
+a high-performing, innovation-driven team.
 
 ---
 
